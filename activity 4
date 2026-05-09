@@ -8,19 +8,19 @@
 <body>
 
     <!-- Let's try using various headings and paragraph-->
-    <h1>Welcome to Codingal.. Let's get started with Coding</h1>
+    <h1>Welcome to My Webpage</h1>
 
-    <h2>Welcome to Codingal.. Let's get started with Coding</h2>
+    <h2>Learning HTML is Fun</h2>
 
-    <h3>Welcome to Codingal.. Let's get started with Coding</h3>
+    <h3>HTML helps to create webpages</h3>
 
-    <h4>Welcome to Codingal.. Let's get started with Coding</h4>
+    <h4>Headings are important in HTML</h4>
 
-    <h5>Welcome to Codingal.. Let's get started with Coding</h5>
+    <h5>Practice coding every day</h5>
 
-    <h6>Welcome to Codingal.. Let's get started with Coding</h6>
+    <h6>Keep learning new technologies</h6>
 
-    <p>The p tag is used to represent a paragraph</p>
+    <p>The p tag is used to write a paragraph in HTML.</p>
 
 </body>
 
